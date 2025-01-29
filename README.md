@@ -3,4 +3,4 @@ A game that I'm working on that is heavily inspired by Buckshot Roulette by Mike
 I'll update everytime I work on a newer version
 
 download it here
-https://drive.google.com/drive/folders/1RGQ6d4PPRByPjfVlpmlWSCBIFeSu8Loe 
+https://drive.google.com/file/d/1LINvH77cAkFc-BycGmzn-oOXUB2hqP-k/view?usp=sharing 
